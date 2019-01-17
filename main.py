@@ -10,7 +10,7 @@ while True:
     # Change LED state
     led1.ON()
 
-    time.sleep(4000)
+    time.sleep(1000)
 
     led1.OFF()
 
